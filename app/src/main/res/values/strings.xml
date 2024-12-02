@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MEDICA</string>
+    <string name="medica">Medica</string>
+    <string name="welcome_to_medica">Welcome to Medica! 👋</string>
+    <string name="the_best_online_doctor_appointment_consultation_app_of_the_century_for_your_health_and_medical_needs"><![CDATA[The best online doctor appointment & consultation app of the century for your health and medical needs!]]></string>
+    <string name="thousands_of_doctors_experts_to_help_your_health">Thousands of doctors &amp; experts to help your health! </string>
+    <string name="next">Next</string>
+    <string name="health_checks_consultations_easily_anywhere_anytime">Health checks &amp; consultations easily anywhere anytime</string>
+    <string name="get_started">Get Started</string>
+    <string name="let_s_start_living_healthy_and_well_with_us_right_now">Let\'s start living healthy and well with us right now!</string>
+    <string name="let_s_you_in">Let’s you in</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="or">or</string>
+    <string name="sign_in_with_password">Sign in with password</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="sign_in">Sign in</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_to_your_account">Login to Your Account</string>
+    <string name="forgot_the_password">Forgot the password?</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Material3 mavzusi -->
+    <style name="Theme.Medica" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Ranglar, shriftlar va boshqa sozlamalar -->
+    </style>
+
+</resources>
+

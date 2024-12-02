@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".IntroActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="107dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/app_name"
+        android:scaleType="centerCrop"
+        android:src="@drawable/group" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:fontFamily="@font/urbanist_semibold"
+        android:text="@string/welcome_to_medica"
+        android:textAlignment="center"
+        android:textColor="@color/basic_color"
+        android:textSize="48sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist_medium"
+        android:padding="24dp"
+        android:text="@string/the_best_online_doctor_appointment_consultation_app_of_the_century_for_your_health_and_medical_needs"
+        android:textAlignment="center"
+        android:textColor="@color/_black_textcolor"
+        android:textSize="22sp" />
+
+</LinearLayout>
